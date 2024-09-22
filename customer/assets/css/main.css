@@ -1,0 +1,23 @@
+.collapse {
+    h1 {
+        a {
+            color: white;
+            text-decoration: none;
+        }
+    }
+}
+
+.collapse * {
+    margin-right: 20px;
+}
+
+.cuahang i {
+    font-size: 50px;
+}
+.card img{
+    max-width: 313px;
+    max-height: 313px;
+}
+.card {
+    margin: 10px;
+}
